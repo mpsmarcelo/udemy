@@ -1,0 +1,82 @@
+body {
+
+
+	font-family: opensans,helvetica,arial,sans-serif;
+	
+}
+
+.painel {
+		background-color: #177d49;
+	    height: 10px; 
+	    margin-top: 0px;
+	    margin-bottom: 0px
+}
+
+.palmeiras{
+
+	    width: 26;
+	    background-color: #177d49;
+	    color: white;
+	    text-align: center;
+}
+
+.inicio {
+
+		width: 1200px;
+	    text-align: left;
+	    margin : auto;
+}
+
+.inicio h1{
+
+	    font-size: 60px;
+	    font-family: sans-serif;
+	    
+}
+
+.meio {
+
+}
+
+
+.meio h3{
+
+	 text-align: left;
+	 width: 600px;
+	 color: gray;
+	 margin-left: 500px;
+
+}
+
+.meio a{
+
+	font-style: italic;
+	margin-left: 500px;
+	color: blue;
+	text-align: left;
+}
+
+.meio img{
+
+	width: 1200px;
+    text-align: center;
+    margin: auto;
+
+}
+
+
+.teste img{
+
+	width: 700px;
+}
+
+
+.teste{
+
+	text-align: center;
+}
+
+
+.subteste{
+	text-align: left;
+}
