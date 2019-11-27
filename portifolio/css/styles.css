@@ -1,11 +1,15 @@
-html {
+html,body {
 
 		margin: 0;
+		padding: 0;
 
 }
+
+
 body {
 	background-color: #2b2b2b;
 }
+
 
 span{
 
@@ -14,25 +18,56 @@ span{
 
 .navigation {
 
-		background-color: red;
 		width: auto;
+		color: white;
 
 }
 
 .navigation ul {
-		width: 20px;
-		display: inline-block;
-		
+		margin-top: 0px;
+		list-style: none;	
+		padding-left: 0px;
+		text-align: right;	
+		height: 50px;
+		line-height: 50px;
 }
 
 .navigation li{
 
 		display: inline-block;
-		padding: 0px;
-		
+		padding-left: 30px;
+		padding-right: 30px;
+
 }
 
 .content img{
 
+		border-radius: 50px
+}
 
+.capa {
+
+		color: white;
+
+}
+
+.capa span{
+	color: #f27609;
+
+}
+
+.capa div{
+
+	display: inline-block;
+	height: 650px;
+}
+
+.profile-pic{
+	background-color: yellow;
+	width: 40%;
+}
+.profile-title{
+	background-color: orange;
+	vertical-align: top;
+	width: 59%;
 }
